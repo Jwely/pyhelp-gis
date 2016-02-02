@@ -5,4 +5,5 @@
 
 *.pyc
 .idea
-
+*get-pip.py
+*.whl

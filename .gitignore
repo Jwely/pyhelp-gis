@@ -1,0 +1,8 @@
+
+# This is a barebones git ignore. It is used to tell git NOT to track specific files, folders, or
+# all files and folders that meet certain criteria, such as ending with '.pyc'. This allows programmers
+# to keep their repositories as clean as possible by tracking only the critical files.
+
+*.pyc
+.idea
+

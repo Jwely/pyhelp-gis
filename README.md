@@ -5,6 +5,8 @@ A documentation repository to help with frequently encountered issues getting st
 
 The python programming language can be exceptionally useful, is one of the most common languages used in the GIS community, and is a very suitable first programming language. Nearly everything I know is self taught, and I am NOT a python expert, but have gained a couple of years experience doing python programming for machine learning, data science, GIS, and for general interest. Every once in a while someone asks me a question with a solution that is best demonstrated by example code, and this repository serves as a loosely organized collection of examples and simple tools. Some of these little examples i've writen for myself to reference.
 
+This collection of resources does not attempt to teach basic python syntax, but to serve as a practical resource. There are many online resources for beginners introductions to python including interactive ones on [Code Academy](https://www.codecademy.com/learn/python), and self paced resources like [this one](https://developers.google.com/edu/python/introduction?hl=en) offered by google.
+
 ### Getting started
 
 I've decided the best way to approach this is to force users to get established with github

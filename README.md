@@ -30,13 +30,14 @@ Select an interpreter from the dropdown menu of available options.
 What you've just set up is an Integrated Development Environment (IDE), which is PyCharm in this scase,
 Version Control Software (VCS), which is git in this case, and selected an interpreter for your code,
 which is some version of Python. These are the key elements of developing software, even at the professional level.
+You've also created a copy of this repository where you can explore the code directly, to use as an example.
 
 ### General contents
 
 Users who are just getting started with python can follow the guide below, reviewing each topic in order.
 Otherwise, just go right after whatever you're interested in.
 
-- [ ] Obtaining and installing modules
+- [ ] [Obtaining and installing modules](topics/modules)
 - [ ] Flow control
 - [ ] Functions and Classes
 - [ ] Heavy math lifting with `numpy`

@@ -22,8 +22,7 @@ fork.
 * Download the github client from [here.](https://desktop.github.com/)
 * Open up the client, log in with your github credentials, and clone the repository to your desktop computer.
 You can do this from the `+` icon in the top left of the client window. Remember the path to this directory.
-* If you do not already have it, download and install PyCharm community edition from [here.](https://www.jetbrains.com/pycharm/download/#section=windows).
-Do not download the free trial of the professional version.
+* If you do not already have it, download and install PyCharm community edition from [here.](https://www.jetbrains.com/pycharm/download/#section=windows)
 * Open up PyCharm and go to  File -> New Project. Create the new project in the same directory as you cloned the repository.
 Select an interpreter from the dropdown menu of available options.
 
@@ -34,7 +33,7 @@ You've also created a copy of this repository where you can explore the code dir
 
 ### General contents
 
-Users who are just getting started with python can follow the guide below, reviewing each topic in order.
+Users who are just relativley new to python for gis can follow the topics below, reviewing each topic in order.
 Otherwise, just go right after whatever you're interested in.
 
 - [x] [Obtaining and installing modules](topics/modules)

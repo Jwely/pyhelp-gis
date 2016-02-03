@@ -41,7 +41,7 @@ Otherwise, just go right after whatever you're interested in.
 - [ ] Functions and Classes
 - [ ] Heavy math lifting with `numpy`
 - [ ] Data management with `pandas`
-- [ ] Data science with `scipy`
+- [ ] Data science with `scipy` and `scikit-learn`
 - [ ] Geospatial data manipulation with `gdal` and `ogr`
 - [ ] Participating in the open source community with `git`
 

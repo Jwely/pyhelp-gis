@@ -16,7 +16,7 @@ You might not understand why at first, but the instructions are simple enough to
 * If you do not already have at least one version of python on your system, get one [here.](https://www.python.org/downloads/).
 These resources should be cross compatible with both python 2.7.x and python 3.5.x.
 * Create an account here on github. It's easy and free, do it now.
-* Fork this repository by clicking the button on the top right of your screen. This action will create a copy of this
+* Fork this repository by clicking the button on the top right of this page. This action will create a copy of this
 code base just for you, any changes you make can be pushed to github.com under your profile without impacting anyone elses
 fork.
 * Download the github client from [here.](https://desktop.github.com/)

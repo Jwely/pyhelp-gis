@@ -5,7 +5,8 @@ import pip
 def install_wheels(wheel_directory=None):
     """
     Simple function to use pip to install any .whl files in a directory.
-    Defaults to installing .whl files in THIS directory.
+    Defaults to installing .whl files in THIS directory if no directory
+    path is specified.
 
     :param wheel_directory: filepath to folder with wheel files to install
     """
@@ -18,8 +19,6 @@ def install_wheels(wheel_directory=None):
     wheels = [fname for fname in os.listdir(wheel_directory) if ".whl" in fname]
     for wheel in wheels:
         pip.main(["install", "--upgrade", wheel])
-
-
 
 
 if __name__ == "__main__":

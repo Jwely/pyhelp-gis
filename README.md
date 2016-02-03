@@ -37,7 +37,7 @@ You've also created a copy of this repository where you can explore the code dir
 Users who are just getting started with python can follow the guide below, reviewing each topic in order.
 Otherwise, just go right after whatever you're interested in.
 
-- [ ] [Obtaining and installing modules](topics/modules)
+- [x] [Obtaining and installing modules](topics/modules)
 - [ ] Flow control
 - [ ] Functions and Classes
 - [ ] Heavy math lifting with `numpy`

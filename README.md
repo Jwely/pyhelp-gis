@@ -1,5 +1,5 @@
 # pyhelp-gis
-A documentation repository to help with frequently encountered issues getting started with python.
+A repository for python gis tools and tricks, as well as a few guides to get people started.
 
 ### Introduction
 
